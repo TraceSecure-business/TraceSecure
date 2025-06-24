@@ -2,7 +2,7 @@
 
 **Freelance Cybersecurity Analyst & Developer**
 
-👋 Hello! I’m [Your Name] (15 → 18), also known as TraceSecure.  
+👋 Hello! I’m Charlie, also known as the founder of TraceSecure.  
 Building practical security tools and helping small businesses improve their web and network security.
 
 ---
